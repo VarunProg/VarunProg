@@ -116,7 +116,8 @@ React router V6, hook Form and props validation by using TypeScript.
 </p>
 
 <p>
-📫 How to reach me email: varunchaudhary578@gmail.com  
+📫 How to reach me :  
+  <a href= "mailto:varunchaudhary578@gmail.com ">Send Email</a>
 </p>
 
 
