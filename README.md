@@ -1,19 +1,24 @@
 
-## 🚀 About Me
-Frontend developer proficient in working with
+
+
+
+# Hi, 👋
+<h3> 
+  I'm Varun and I am a < frontend developer >
+ </h3>
+ <p dir="auto"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> 
+   Frontend developer proficient in working with
  ReactJS in building Single page applications
   by using React custom hooks, RESTful APIs,
    ES6 Higher Order Functions, 
 React router V6, hook Form and props validation by using TypeScript.
+ </p>
+  
+ <p>
+  Dedicated and passionate Web Developer, who is always finding ways to challenge and develop my creative skills
+  </P>
+  
 
-
-# Hi, 👋
- I'm Varun and I am a < frontend developer >
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-kumar-977887186/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/varunallout)
 
 <h3 align="left">  Languages and Libraries:</h3>
 <p align="left">
@@ -89,3 +94,8 @@ React router V6, hook Form and props validation by using TypeScript.
   </a>
  
 </p>
+
+
+## 🔗 Socials
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-kumar-977887186/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/varunallout)
