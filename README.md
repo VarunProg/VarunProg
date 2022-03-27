@@ -111,6 +111,15 @@ React router V6, hook Form and props validation by using TypeScript.
 
 
 
+<p>
+    🧠 I'm currently learning GraphQL and Color Theory.
+</p>
+
+<p>
+📫 How to reach me email: varunchaudhary578@gmail.com  
+</p>
+
+
 <h3> 🔗 Socials </h3>
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-kumar-977887186/)
