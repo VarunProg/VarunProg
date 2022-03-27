@@ -7,7 +7,7 @@
   I'm Varun and I am a < frontend developer >
  </h3>
  <p dir="auto"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> 
-   Frontend developer proficient in working with
+   frontend developer proficient in working with
  ReactJS in building Single page applications
   by using React custom hooks, RESTful APIs,
    ES6 Higher Order Functions, 
