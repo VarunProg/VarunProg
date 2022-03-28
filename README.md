@@ -14,9 +14,6 @@
 React router V6, hook Form and props validation by using TypeScript.
  </p>
   
- <p>
-  Dedicated and passionate Web Developer, who is always finding ways to challenge and develop my creative skills
-  </P>
   
 
 <hr>
