@@ -7,11 +7,13 @@
   I'm Varun and I am a < frontend developer >
  </h3>
  <p dir="auto"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> 
-   frontend developer proficient in working with
- ReactJS in building Single page applications
-  by using React custom hooks, RESTful APIs,
-   ES6 Higher Order Functions, 
-React router V6, hook Form and props validation by using TypeScript.
+
+   
+I am a passionate software engineer with a strong technical background and having 2 years of experience in web development
+Have built applications with excellent user experiences and helping companies strengthen their online presence and delighting customers. My expertise lies in frontend development, and I am in the process of developing backend skills.
+
+Competencies: ReactJS, Redux, JavaScript (ES6), TypeScript, NodeJS, ExpressJS, GraphQL, HTML5, CSS3, Sass, Bootstrap
+
  </p>
   
   
