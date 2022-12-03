@@ -111,7 +111,7 @@ Competencies: ReactJS, Redux, JavaScript (ES6), TypeScript, NodeJS, ExpressJS, G
 
 
 <p>
-    🧠 I'm currently learning GraphQL and Color Theory.
+    🧠 I'm currently learning Design Patterns and Data Structures and Algorithms.
 </p>
 
 <p>
